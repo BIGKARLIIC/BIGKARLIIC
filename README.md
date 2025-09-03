@@ -18,5 +18,5 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BIGKARLIIC&show_icons=true&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BIGKARLIIC&layout=compact&langs_count=18)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BIGKARLIIC&show_icons=true&rank_icon=github)
 <br />
