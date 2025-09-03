@@ -13,26 +13,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 
 ## GitHub Stats
-![Karlis' GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarlisM&show_icons=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlisM&layout=compact)
-
-## Achievements
-![GitHub Achievements](https://github-achievements.vercel.app/api?username=KarlisM)
-
-## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## Latest Tweet
-<!-- TWEET-LIST:START -->
-<!-- TWEET-LIST:END -->
+![Karlis' GitHub Stats](https://github-readme-stats.vercel.app/api?username=BIGKARLIIC&show_icons=true&theme=radical)
 
 ## Now Playing
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=default)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=bigkarliic&cover_image=true&theme=default)
 
 ## Let's Connect
 - 📫 Email: [karlismalnieks1@gmail.com](mailto:karlismalnieks1@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/k%C4%81rlis-m%C4%81lnieks-ab5883270/)
-- [Twitter](https://twitter.com/yourusername)
