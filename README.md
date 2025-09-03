@@ -1,114 +1,38 @@
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi, I'm Karlis 👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer+%7C+Tech Enthusiast+%7C+Designer&descAlignY=51&descAlign=62" alt="Header Banner"/>
-  </a>
-</p>
+# Hello, I'm Karlis 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/k%C4%81rlis-m%C4%81lnieks-ab5883270/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="mailto:karlismalnieks1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p>
+## About Me
+- 💻 Developer passionate about building impactful software.
+- 🌱 Currently exploring Rust and AI technologies.
+- 🎨 Enthusiast of design and user experience.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitor Counter"/>
-</p>
+## Skills & Tools
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 
----
+## GitHub Stats
+![Karlis' GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarlisM&show_icons=true&theme=radical)
 
-### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlisM&layout=compact)
 
-<details>
-  <summary>Click to expand 👀</summary>
-  
-  - 💻 I'm a passionate developer with a love for building efficient and beautiful applications.
-  
-  - 🌱 I'm currently diving deep into **[Mention a specific technology you're learning, e.g., Rust, Next.js, AI/ML]**.
-  
-  - 🎨 My passion for design isn't just about aesthetics; it's about creating intuitive and enjoyable user experiences. I believe great code deserves a great interface.
-  
-  - 👯 I’m looking to collaborate on open-source projects related to **[Mention your interests, e.g., web development, data science, developer tools]**.
-  
-  - 💬 Ask me about anything related to Python, JavaScript, or UI/UX principles!
-  
-  - ⚡ Fun fact: **[Add a fun fact about yourself, e.g., I can solve a Rubik's Cube in under a minute!]**
-</details>
+## Achievements
+![GitHub Achievements](https://github-achievements.vercel.app/api?username=KarlisM)
 
----
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-### 🛠️ My Tech Stack
+## Latest Tweet
+<!-- TWEET-LIST:START -->
+<!-- TWEET-LIST:END -->
 
-Here are some of the technologies I've been working with recently:
+## Now Playing
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=default)
 
-<table width="100%">
-  <tr>
-    <td align="center" width="180">
-      <img src="https://skillicons.dev/icons?i=python,javascript,typescript" />
-      <br><strong>Languages</strong>
-    </td>
-    <td align="center" width="180">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django" />
-      <br><strong>Frameworks & Runtimes</strong>
-    </td>
-    <td align="center" width="180">
-      <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind" />
-      <br><strong>Frontend</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="180">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-      <br><strong>Databases & Caching</strong>
-    </td>
-    <td align="center" width="180">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp" />
-      <br><strong>DevOps & Cloud</strong>
-    </td>
-    <td align="center" width="180">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-      <br><strong>Tools & Design</strong>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 My GitHub Stats & Activity
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Karlis's GitHub Stats"/>
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula" alt="Karlis's Top Languages"/>
-  </a>
-  
-  <a href="https://github.com/anuraghazra/wakatime-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=dracula&layout=compact" alt="Karlis's Wakatime Stats"/>
-  </a>
-</p>
-
----
-
-### ✍️ My Latest Blog Posts
-
-* *No recent blog posts. Check back later!*
----
-
-### 🐍 Here's a little something extra...
-
-<p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" alt="Footer"/>
-</p>
+## Let's Connect
+- 📫 Email: [karlismalnieks1@gmail.com](mailto:karlismalnieks1@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/k%C4%81rlis-m%C4%81lnieks-ab5883270/)
+- [Twitter](https://twitter.com/yourusername)
