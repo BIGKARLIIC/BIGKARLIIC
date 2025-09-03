@@ -16,7 +16,7 @@
 ![Karlis' GitHub Stats](https://github-readme-stats.vercel.app/api?username=BIGKARLIIC&show_icons=true&theme=radical)
 
 ## Now Playing
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=bigkarliic&cover_image=true&theme=default)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31IGDLJ2NNWTTLPEQUIH6XK3PTXE&cover_image=true&theme=default)
 
 ## Let's Connect
 - 📫 Email: [karlismalnieks1@gmail.com](mailto:karlismalnieks1@gmail.com)
