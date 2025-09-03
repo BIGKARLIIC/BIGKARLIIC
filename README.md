@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=BIGKARLIIC&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=BIGKARLIIC&fontSize=90)
 ## 👋 BIGKARLIIC 🚀
 
 **`I like doing this I guess`**
